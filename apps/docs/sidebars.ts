@@ -13,9 +13,7 @@ import type { SidebarsConfig } from "@docusaurus/plugin-content-docs";
  Create as many sidebars as you want.
  */
 const sidebars: SidebarsConfig = {
-  tutorialSidebar: [
-    'getting-started',
-  ],
+	tutorialSidebar: ["index", "getting-started"],
 };
 
 export default sidebars;

@@ -1,9 +1,8 @@
 ---
-sidebar_position: 0
-slug: /
+sidebar_position: 2
 ---
 
-# Welcome to Banyan Tree Documentation
+# Introuction
 
 *Banyan Tree* is an open-source platform for live, collaborative teaching.
 
