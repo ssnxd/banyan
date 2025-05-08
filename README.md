@@ -1,5 +1,10 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f808287d-3908-49e4-b09c-bee4b133e76a" width="100%">
+</p>
 
-## Banyan Tree</h1>
+
+
+## Banyan Tree
 *Banyan Tree* is an open-source platform for live, collaborative teaching.
 
 
