@@ -1,8 +1,8 @@
-# 🤝 Contributing to Banyan Tree
+# Contributing to Banyan Tree
 
 Thank you for your interest in contributing to **Banyan Tree**! We welcome all kinds of contributions—code, documentation, bug reports, feature ideas, design feedback, and more.
 
-## 🛠️ Local Development
+## Local Development
 
 To get started with local development:
 
@@ -14,19 +14,7 @@ docker-compose up --build
 
 You should now be able to access the app at `http://localhost:3000`.
 
----
-
-## 🧱 Project Structure
-
-```
-/frontend       # React frontend
-/backend        # Node.js or Go backend
-/docs           # Project docs & planning
-```
-
----
-
-## 📌 Guidelines
+## Guidelines
 
 1. **Create an issue** before starting large features.
 2. **Fork the repo**, create a feature branch, and open a PR.
@@ -34,9 +22,7 @@ You should now be able to access the app at `http://localhost:3000`.
 4. **Follow the code style** (Prettier, ESLint for frontend).
 5. **Add comments and docs** if necessary.
 
----
-
-## ✅ PR Checklist
+## PR Checklist
 
 Before submitting your pull request:
 

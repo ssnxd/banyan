@@ -1,12 +1,10 @@
-# 🌿 Code of Conduct
+# Code of Conduct
 
-## 📜 Our Pledge
+## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project a respectful and harassment-free experience for everyone.
 
----
-
-## 🤝 Our Standards
+## Our Standards
 
 Examples of behavior that contributes to a positive environment:
 
@@ -22,9 +20,7 @@ Examples of unacceptable behavior:
 - Trolling or deliberate disruption
 - Unwelcome sexual attention or advances
 
----
-
-## 🔧 Our Responsibilities
+## Our Responsibilities
 
 Project maintainers are responsible for:
 
@@ -32,16 +28,12 @@ Project maintainers are responsible for:
 - Removing or editing inappropriate comments
 - Taking corrective action when necessary
 
----
-
-## 📬 Reporting Issues
+## Reporting Issues
 
 If you experience or witness unacceptable behavior, please report it by emailing the maintainers at: **[suraj@devss.io]**
 
 All reports will be handled with confidentiality.
 
----
-
-## 📜 Attribution
+## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.

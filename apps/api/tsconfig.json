@@ -1,0 +1,10 @@
+{
+  "extends": "@banyan/typescript-config/node.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": [
+    "index.ts",
+    "src/**/*"
+  ]
+}
